@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Azul::GameObject" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAACAAAgAkAAAARAAgAAAAAAAAAAAAAhEAYCQAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectMan">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIYAAAAAAAAAAgAABAABBAAAAABAAEAAAAAAAAACAAE=</HashCode>
+      <FileName>GameObjectMan.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poRootTree" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Azul::PCSTree" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AMBAAMABAAAAAAAAAAIABAhAAAAAAEAAAIAgoAAEAAA=</HashCode>
+      <FileName>C:\code\________x_GAM575\instructor\Lectures\Week_10\AnimationEngine\System_Libs\PCSTree\include\PCSTree.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pRoot" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Azul::PCSNode" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAQAhEAIAAAgAAIwKAgABgCgGAAIAMAkQEQCjAA=</HashCode>
+      <FileName>C:\code\________x_GAM575\instructor\Lectures\Week_10\AnimationEngine\System_Libs\PCSTree\include\PCSNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::BoundingSphereGameObject" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAAAAAIAAgAAAAAAAAAAAAAAAAAgAAEAQoAAAAAAA=</HashCode>
+      <FileName>BoundingSphereGameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectAnim" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAAAACAAAAAAAAQAEAAAAAIAEIAcAAAACgEAAQAAA=</HashCode>
+      <FileName>GameObjectAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Azul::GameObjectRigid" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIRAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAAAgAABAAAA=</HashCode>
+      <FileName>GameObjectRigid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,26 @@
+﻿  Common.cxx
+  DisplayAnimation.cxx
+  DisplayCache.cxx
+  DisplayCamera.cxx
+  DisplayCommon.cxx
+  DisplayGenericInfo.cxx
+  DisplayGlobalSettings.cxx
+  DisplayHierarchy.cxx
+  DisplayLight.cxx
+  DisplayLink.cxx
+  DisplayMarker.cxx
+  DisplayMaterial.cxx
+  DisplayMesh.cxx
+  DisplayNurb.cxx
+  DisplayPatch.cxx
+  DisplayPivotsAndLimits.cxx
+  DisplayPose.cxx
+  DisplayShape.cxx
+  DisplaySkeleton.cxx
+  DisplayTexture.cxx
+  DisplayUserProperties.cxx
+  DisplayLodGroup.cxx
+  main.cxx
+C:\src\gam575\student\zyu13\PA5\Converter\ImportScene\main.cxx(70,24): warning C4100: 'lpOverlapped': unreferenced formal parameter
+  ImportScene.vcxproj -> C:\src\gam575\student\zyu13\PA5\Converter\Debug\ImportScene.exe
+          1 file(s) copied.

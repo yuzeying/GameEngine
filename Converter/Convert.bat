@@ -1,0 +1,1 @@
+.\\Debug\\ImportScene.exe humanoid.fbx humanoid.azul
